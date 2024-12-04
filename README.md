@@ -1,6 +1,6 @@
 **Please note this project hasn't been maintained since Feb 2024**
 
-![Logo](public/logo_1.png)
+
 
 # TripzAI
 
